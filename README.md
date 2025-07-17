@@ -51,7 +51,6 @@ cd video-transcriber-agent
 Create a virtual env
 python -m venv venv
 venv\Scripts\activate   # For Windows
-# OR
 source venv/bin/activate  # For macOS/Linux
 
 Run the app
